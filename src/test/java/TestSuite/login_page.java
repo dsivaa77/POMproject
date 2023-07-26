@@ -17,12 +17,13 @@ public class login_page extends locators{
 		System.out.println("Test1 executed successfully");
 		//driver.findElement(By.xpath("//img[@alt='Selenium Online Training']")).click();
 	}
-	@Test(priority=2)
+	/*@Test(priority=2)
 	public void test2() {
 		driver.findElement(By.xpath("")).click();
-	}
+	}*/
 	
 	
 }
+
 
 
