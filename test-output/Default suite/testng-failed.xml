@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="TestSuite.login_page">
+      <class name="All_links.alllinksclass">
         <methods>
-          <include name="test2"/>
-          <include name="openbrowser"/>
+          <include name="pplinks"/>
         </methods>
-      </class> <!-- TestSuite.login_page -->
+      </class> <!-- All_links.alllinksclass -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
